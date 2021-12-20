@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there, Ik here👋
 
 
-Im currently a Business analytics student learning how to apply code in generating insights from data
+I'm currently a Business analytics student learning how to apply code in generating insights from data
 
 - 🔭 I’m currently working on R, and sprucing up my Python Skills in developing Machine learning algorithms 
 - 🤔 I would be interested in with internships with big data consulting firms
