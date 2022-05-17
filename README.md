@@ -1,7 +1,7 @@
 ### Hi there, Ik here👋
 
 
-I'm currently a Business analytics student learning how to apply code in generating insights from data
+Data analyst specializing in descriptive to prescriptive analysis.
 
 - 🔭 I’m interested in solving puzzles and improving business efficiencies 
 - 🤔 Current languages : R, SQL & Python 
